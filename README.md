@@ -15,8 +15,8 @@ ALGORITHM:
    values to the category of the video.
 3. SVR_classifer.py
 
-       File having necessary command's and coding part of the SVR (support vector regression) Algorithm find the results.
+     File having necessary command's and coding part of the SVR (support vector regression) Algorithm find the results.
 4. data/output.csv
 
-       File having the result values.
+     File having the result values.
 
