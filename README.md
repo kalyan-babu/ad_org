@@ -13,7 +13,7 @@ ALGORITHM:
 
      File is responsible for preprocess the train data set, calculating the duration in the seconds format and assigning interger
    values to the category of the video.
-3. SVR_classifer.py
+3. Trees_classifer.py
 
      File having necessary command's and coding part of the Decision Tree (Decission Trees regressor) Algorithm find the results.
 4. data/output.csv
